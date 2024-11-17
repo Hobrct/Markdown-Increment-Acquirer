@@ -1,5 +1,7 @@
 # Markdown增量获取器
 
+[English](https://github.com/Hobrct/Markdown-Increment-Acquirer/blob/master/README_EN.md)
+
 ## 项目背景
 
 aigc生成内容时使用了markdown作为标记语言，以增加文本的可读性。在前端中需要使用markdown解析器将其解析为DOM结构。由于aigc生成的内容不是一次性生成，而是一段一段生成的。为了用户体验，在展示输出时使用了SSE将输出内容实时发送给前端，再由前端展示出来。
