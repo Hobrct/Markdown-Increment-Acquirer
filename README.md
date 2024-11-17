@@ -32,7 +32,7 @@ for (let printTask of printTasks) {
     // 这样就实现了将printTask中的内容添加到对应的容器元素内显示出来的效果
     printTask.container.textContent += printTask.content;
 }
-
+```
 
 ## TODO
 - 目前只能解析marked.js的token，其他库需要支持。
