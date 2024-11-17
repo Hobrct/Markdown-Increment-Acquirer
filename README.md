@@ -39,5 +39,5 @@ for (let printTask of printTasks) {
 ## TODO
 - 目前只能解析marked.js的token，其他库需要支持。
 - DOM生成没写完，目前只有标题、加粗、列表，需要匹配更多markdown的样式。
-- 项目结构以及Readme需要优化，需要更详细的描述实现原理。
+- 项目结构以及Readme需要优化，需要更详细的描述实现原理，还要加入动态的效果图。
 - 上传到npm中。
